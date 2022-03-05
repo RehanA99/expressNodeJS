@@ -1,7 +1,9 @@
-"name" : "temperature",
-"version" : "1.0.0",
-"desciption" : "Retrieve current weather condition in the United States.",
-"main" : "app.js",
-"dependencies" : {
-    "express" : "4.x"
+{
+    "name" : "temperature",
+    "version" : "1.0.0",
+    "desciption" : "Retrieve current weather condition in the United States.",
+    "main" : "app.js",
+    "dependencies" : {
+        "express" : "4.x"
+    }
 }
